@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Prince Jha"
-title_separator          : "-"
+title_separator          : " "
 name                     : &name "Prince Jha"
 description              : &description "Personal Website"
 URL                      : "https://prince-jha.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=KywmeyUAAAAJ"
-  email            :
+  email            : jhapks1999@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
