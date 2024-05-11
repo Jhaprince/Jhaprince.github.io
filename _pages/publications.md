@@ -5,13 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
 For an updated list, kindly refer to my [Google Scholar's page](https://scholar.google.com/citations?user=KywmeyUAAAAJ&hl=en).
 
 
