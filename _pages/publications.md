@@ -24,7 +24,7 @@ Building A Multimodal Plant Care Dialogue Assistant” ECIR2024\[[Paper](https:/
 * **Prince Jha**\*, Krishanu Maity\*, Raghav Jain\*, Sriparna Saha, Pushpak Bhattacharyya, ”GenEx: A
 Commonsense-aware Unified Generative Framework for Explainable Cyberbullying Detection” EMNLP2023 \[[Paper](https://aclanthology.org/2023.emnlp-main.1035.pdf)\]
 
-* **Prince Jha**\*, Gaël Dias, Alexis Lechervy, José G Moreno, Anubhav Jangra, Sebastião Pais, Sriparna Saha, "Combining Vision and Language Representations for Patch-based Identification of Lexico-Semantic Relations" ACMMM2022 \[[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548299)\]
+* **Prince Jha**, Gaël Dias, Alexis Lechervy, José G Moreno, Anubhav Jangra, Sebastião Pais, Sriparna Saha, "Combining Vision and Language Representations for Patch-based Identification of Lexico-Semantic Relations" ACMMM2022 \[[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548299)\]
 
 * **Prince Jha**\*, Krishanu Maity\*, Sriparna Saha, Pushpak Bhattacharyya, “A Multitask Framework for Sentiment,
 Emotion and Sarcasm aware Cyberbullying Detection in Multi-modal Code-Mixed Memes” SIGIR 2022 \[[Paper](www.cse.iitb.ac.in/~pb/papers/sigir22-sa-multitask.pdf)\]
