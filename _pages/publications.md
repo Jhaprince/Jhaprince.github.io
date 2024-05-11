@@ -33,7 +33,7 @@ Commonsense-aware Unified Generative Framework for Explainable Cyberbullying Det
 
 * **Prince Jha**\*, Gaël Dias, Alexis Lechervy, José G Moreno, Anubhav Jangra, Sebastião Pais, Sriparna Saha, "Combining Vision and Language Representations for Patch-based Identification of Lexico-Semantic Relations" ACMMM2022 \[[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548299)\]
 
-* * **Prince Jha**\*, Krishanu Maity\*, Sriparna Saha, Pushpak Bhattacharyya, “A Multitask Framework for Sentiment,
+* **Prince Jha**\*, Krishanu Maity\*, Sriparna Saha, Pushpak Bhattacharyya, “A Multitask Framework for Sentiment,
 Emotion and Sarcasm aware Cyberbullying Detection in Multi-modal Code-Mixed Memes” SIGIR 2022 \[[Paper](www.cse.iitb.ac.in/~pb/papers/sigir22-sa-multitask.pdf)\]
 
 
