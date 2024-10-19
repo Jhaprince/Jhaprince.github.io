@@ -10,8 +10,22 @@ redirect_from:
 
 <p>(Last Updated: May 11, 2024)</p>
 
-<p> Currently, I am a research assistant at the Singapore University of Technology and Design, where I work under <a href="https://info.roylee.sg/">Dr. Roy Lee</a> exploring Meme Analytics.</p>
+<p> I am a research associate at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) with <a href="https://nilslukas.github.io/">Dr. Nils Lukas</a>. Previously, I was working at the Singapore University of Technology and Design as a research assistant with <a href="https://info.roylee.sg/">Dr. Roy Lee</a> .</p>
 
-<p> I recently graduated with a Bachelor in Computer Science and Engineering from <a href="https://www.iitp.ac.in/">Indian Institute of Technology Patna</a>. I was fortunate to be advised by <a href="https://www.iitp.ac.in/~sriparna/">Dr. Sriparna Saha</a> and <a href="https://www.cse.iitb.ac.in/~pb/">Prof. Pushpak Bhattacharyya</a> at <a href="https://www.iitp.ac.in/~ai-nlp-ml/">AI-NLP-ML Lab, IIT Patna</a>. There, I worked on a variety of NLP problems, including online safety, complaint mining, and AI for healthcare. Additionally, I have also collaborated with researchers from Microsoft and Amazon AI. </p>
+<p> I recently graduated with a Bachelor in Computer Science and Engineering from <a href="https://www.iitp.ac.in/">Indian Institute of Technology Patna</a>. I was fortunate to be advised by <a href="https://www.iitp.ac.in/~sriparna/">Dr. Sriparna Saha</a> and <a href="https://www.cse.iitb.ac.in/~pb/">Prof. Pushpak Bhattacharyya</a> at <a href="https://www.iitp.ac.in/~ai-nlp-ml/">AI-NLP-ML Lab, IIT Patna</a>.  </p>
 
-<p>My research interests include natural language processing (NLP) and AI safety. However, I am always eager to explore new research directions.</p> 
+<p>My research addresses the broader challenge of creating trustworthy machine learning systems, focusing on building models that are secure, interpretable, and aligned with safety principles. Specifically, I am interested in:
+
+1. **Reliability**: 
+   - Developing and analyzing both adversarial attacks and defense mechanisms to ensure that models remain robust and secure under various conditions.
+
+2. **Interpretability**:
+   - Enhancing the transparency of machine learning models by understanding how features contribute to their predictions. 
+   - This enables clearer communication of model behavior, making it easier for humans to understand and trust these systems.
+
+3. **Causality**:
+   - Moving beyond interpretability, I explore how to uncover the underlying cause-and-effect relationships between model inputs and outputs. 
+   - This allows for meaningful interventions, ensuring that models are safety-aligned and behave predictably when inputs are adjusted.
+
+4. **Misuse Prevention**: 
+   - Investigating methods to prevent malicious misuse of models, with a focus on techniques such as safety alignment and watermarking to safeguard models from unauthorized exploitation. </p>
