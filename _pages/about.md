@@ -18,20 +18,20 @@ My research addresses the broader challenge of creating trustworthy machine lear
 
 <details>
   <summary><b>Reliability</b></summary>
-  Developing and analyzing both adversarial attacks and defense mechanisms to ensure that models remain robust and secure under various conditions.
+  Investigating the robustness of ML models against various attacks, such as adversarial attacks, backdoor attacks, and inference attacks. This includes developing effective defense mechanisms to ensure models perform reliably in diverse conditions.
 </details>
 
 <details>
   <summary><b>Interpretability</b></summary>
-  Enhancing the transparency of machine learning models by understanding how features contribute to their predictions. This enables clearer communication of model behavior, making it easier for humans to understand and trust these systems.
+  Enhancing the transparency of machine learning models by understanding how features contribute to their predictions. This promotes clearer communication of model behavior, fostering trust in automated systems.
 </details>
 
 <details>
   <summary><b>Causality</b></summary>
-  Moving beyond interpretability, I explore how to uncover the underlying cause-and-effect relationships between model inputs and outputs. This allows for meaningful interventions, ensuring that models are safety-aligned and behave predictably when inputs are adjusted.
+  Exploring the cause-and-effect relationships between model inputs and outputs to enable meaningful interventions. This ensures that models are safety-aligned and behave predictably in response to changes in inputs.
 </details>
 
 <details>
   <summary><b>Misuse Prevention</b></summary>
-  Investigating methods to prevent malicious misuse of models, with a focus on techniques such as safety alignment and watermarking to safeguard models from unauthorized exploitation.
+  Examining methods to prevent malicious misuse of models, focusing on techniques such as safety alignment and watermarking to protect models from unauthorized exploitation.
 </details>
