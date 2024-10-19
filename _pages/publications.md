@@ -9,6 +9,7 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 
 ## Conferences
+* Prince Jha, Raghav Jain, Konika Mandal, Aman Chadha, Sriparna Saha, Pushpak Bhattacharyya, "MemeGuard: An LLM and VLM-based Framework for Advancing Content Moderation via Meme Intervention" ACL2024 \[[Paper](https://aclanthology.org/2024.acl-long.439.pdf)\]
 
 * **Prince Jha**\*, Krishanu Maity\*, Raghav Jain\*, Apoorv Verma, Sriparna Saha, Pushpak Bhattacharyya,
 ”Meme-ingful Analysis: Enhanced Understanding of Cyberbullying in Memes Through Multimodal
