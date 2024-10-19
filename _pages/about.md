@@ -16,16 +16,7 @@ redirect_from:
 
 <p>My research addresses the broader challenge of creating trustworthy machine learning systems, focusing on building models that are secure, interpretable, and aligned with safety principles. Specifically, I am interested in:
 
-1. **Reliability**: 
-   - Developing and analyzing both adversarial attacks and defense mechanisms to ensure that models remain robust and secure under various conditions.
-
-2. **Interpretability**:
-   - Enhancing the transparency of machine learning models by understanding how features contribute to their predictions. 
-   - This enables clearer communication of model behavior, making it easier for humans to understand and trust these systems.
-
-3. **Causality**:
-   - Moving beyond interpretability, I explore how to uncover the underlying cause-and-effect relationships between model inputs and outputs. 
-   - This allows for meaningful interventions, ensuring that models are safety-aligned and behave predictably when inputs are adjusted.
-
-4. **Misuse Prevention**: 
-   - Investigating methods to prevent malicious misuse of models, with a focus on techniques such as safety alignment and watermarking to safeguard models from unauthorized exploitation. </p>
+**Reliability**: Developing and analyzing both adversarial attacks and defense mechanisms to ensure that models remain robust and secure under various conditions.
+**Interpretability**:Enhancing the transparency of machine learning models by understanding how features contribute to their predictions. This enables clearer communication of model behavior, making it easier for humans to understand and trust these systems.
+**Causality**:Moving beyond interpretability, I explore how to uncover the underlying cause-and-effect relationships between model inputs and outputs. This allows for meaningful interventions, ensuring that models are safety-aligned and behave predictably when inputs are adjusted.
+**Misuse Prevention**: Investigating methods to prevent malicious misuse of models, with a focus on techniques such as safety alignment and watermarking to safeguard models from unauthorized exploitation. </p>
