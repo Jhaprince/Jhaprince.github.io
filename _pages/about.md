@@ -10,7 +10,7 @@ redirect_from:
 
 <p>(Last Updated: September 29, 2026)</p>
 
-<p>I’m a master’s student in Machine Learning at <a href="https://mbzuai.ac.ae/">MBZUAI</a>, where I am advised by <a href="https://lahlou.org/">Salem Lahlou</a>, <a href="https://nilslukas.github.io/">Nils Lukas</a>, and <a href="https://www.contrib.andrew.cmu.edu/~kunz1/">Kun Zhang</a>. I am currently a visiting researcher at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, where I work with <a href="https://mireshghallah.github.io/">Niloofar Mireshghallah</a>.</p>
+<p>I am a master’s student in Machine Learning at <a href="https://mbzuai.ac.ae/">MBZUAI</a>, where I am advised by <a href="https://lahlou.org/">Salem Lahlou</a>, <a href="https://nilslukas.github.io/">Nils Lukas</a>, and <a href="https://www.contrib.andrew.cmu.edu/~kunz1/">Kun Zhang</a>. I am currently a visiting researcher at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, where I work with <a href="https://mireshghallah.github.io/">Niloofar Mireshghallah</a>.</p>
 
 <p>My research aims to build AI systems that remain trustworthy as they become more capable and autonomous. To me, a trustworthy system (1) learns and generalizes robustly, (2) remains secure under adversarial pressure, (3) protects sensitive information, and (4) improves without departing from its intended objectives. These desiderata shape the four areas of my research agenda: robustness, security, privacy, and safe self-improvement.</p>
 
