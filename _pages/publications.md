@@ -9,9 +9,7 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 
 ## Conferences
-* Anthony Hughes, Alexander Goldberg, **Prince Jha**, Adam Perer, Nikolaos Aletras, Niloofar Mireshghallah, "Boundary-targeted Membership Inference Attacks on Safety Classifiers" NeurIPS2026 (Under Review) \[[Paper](https://arxiv.org/pdf/2605.22373)\]
-
-* **Prince Jha**, Abhijith Sharma, Fan Feng, Kun Zhang, Salem Lahlou, Nils Lukas, "CausalDreamer: Learning Predictive World Models with Latent Disentanglement" NeurIPS2026 (Under Review)
+* Anthony Hughes, Alexander Goldberg, **Prince Jha**, Adam Perer, Nikolaos Aletras, Niloofar Mireshghallah, "Boundary-targeted Membership Inference Attacks on Safety Classifiers" arXiv \[[Paper](https://arxiv.org/pdf/2605.22373)\]
 
 * **Prince Jha**, Samuele Poppi, Nils Lukas, "Context Inference Attacks Without Jailbreaks" AIWILD@ICLR2026 \[[Paper](https://arxiv.org/pdf/2609.01663)\]
 
