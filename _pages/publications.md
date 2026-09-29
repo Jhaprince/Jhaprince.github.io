@@ -9,6 +9,12 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 
 ## Conferences
+* Anthony Hughes, Alexander Goldberg, **Prince Jha**, Adam Perer, Nikolaos Aletras, Niloofar Mireshghallah, "Boundary-targeted Membership Inference Attacks on Safety Classifiers" NeurIPS2026 (Under Review) \[[Paper](https://arxiv.org/pdf/2605.22373)\]
+
+* **Prince Jha**, Abhijith Sharma, Fan Feng, Kun Zhang, Salem Lahlou, Nils Lukas, "CausalDreamer: Learning Predictive World Models with Latent Disentanglement" NeurIPS2026 (Under Review)
+
+* **Prince Jha**, Samuele Poppi, Nils Lukas, "Context Inference Attacks Without Jailbreaks" AIWILD@ICLR2026 \[[Paper](https://arxiv.org/pdf/2609.01663)\]
+
 * **Prince Jha**, Raghav Jain, Konika Mandal, Aman Chadha, Sriparna Saha, Pushpak Bhattacharyya, "MemeGuard: An LLM and VLM-based Framework for Advancing Content Moderation via Meme Intervention" ACL2024 \[[Paper](https://aclanthology.org/2024.acl-long.439.pdf)\]
 
 * **Prince Jha**\*, Krishanu Maity\*, Raghav Jain\*, Apoorv Verma, Sriparna Saha, Pushpak Bhattacharyya,
