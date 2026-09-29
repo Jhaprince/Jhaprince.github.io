@@ -8,30 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<p>(Last Updated: May 11, 2024)</p>
+<p>(Last Updated: September 29, 2026)</p>
 
-<p> I am a research associate at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) with <a href="https://nilslukas.github.io/">Dr. Nils Lukas</a>. Previously, I was working at the Singapore University of Technology and Design as a research assistant with <a href="https://info.roylee.sg/">Dr. Roy Lee</a> .</p>
+<p>I’m a master’s student in Machine Learning at <a href="https://mbzuai.ac.ae/">MBZUAI</a>, where I am advised by <a href="https://lahlou.org/">Salem Lahlou</a>, <a href="https://nilslukas.github.io/">Nils Lukas</a>, and <a href="https://www.contrib.andrew.cmu.edu/~kunz1/">Kun Zhang</a>. I am currently a visiting researcher at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, where I work with <a href="https://mireshghallah.github.io/">Niloofar Mireshghallah</a>.</p>
 
-<p> I recently graduated with a Bachelor in Computer Science and Engineering from <a href="https://www.iitp.ac.in/">Indian Institute of Technology Patna</a>. I was fortunate to be advised by <a href="https://www.iitp.ac.in/~sriparna/">Dr. Sriparna Saha</a> and <a href="https://www.cse.iitb.ac.in/~pb/">Prof. Pushpak Bhattacharyya</a> at <a href="https://www.iitp.ac.in/~ai-nlp-ml/">AI-NLP-ML Lab, IIT Patna</a>.  </p>
+<p>My research aims to build AI systems that remain trustworthy as they become more capable and autonomous. To me, a trustworthy system (1) learns and generalizes robustly, (2) remains secure under adversarial pressure, (3) protects sensitive information, and (4) improves without departing from its intended objectives. These desiderata shape the four areas of my research agenda: robustness, security, privacy, and safe self-improvement.</p>
 
-My research addresses the broader challenge of creating trustworthy machine learning systems, focusing on building models that are secure, interpretable, and aligned with safety principles. Specifically, I am interested in:
-
-<details>
-  <summary><b>Reliability</b></summary>
-  Investigating the robustness of ML models against various attacks, such as adversarial attacks, backdoor attacks, and inference attacks. This includes developing effective defense mechanisms to ensure models perform reliably in diverse conditions.
-</details>
-
-<details>
-  <summary><b>Interpretability</b></summary>
-  Enhancing the transparency of machine learning models by understanding how features contribute to their predictions. This promotes clearer communication of model behavior, fostering trust in automated systems.
-</details>
-
-<details>
-  <summary><b>Causality</b></summary>
-  Exploring the cause-and-effect relationships between model inputs and outputs to enable meaningful interventions. This ensures that models are safety-aligned and behave predictably in response to changes in inputs.
-</details>
-
-<details>
-  <summary><b>Misuse Prevention</b></summary>
-  Examining methods to prevent malicious misuse of models, focusing on techniques such as safety alignment and watermarking to protect models from unauthorized exploitation.
-</details>
+<p>Previously, I worked on explainable cyberbullying detection and multimodal content moderation. I received my bachelor’s degree in Computer Science and Engineering from <a href="https://www.iitp.ac.in/">IIT Patna</a>, where I was fortunate to be advised by <a href="https://www.iitp.ac.in/~sriparna/">Sriparna Saha</a> and <a href="https://www.cse.iitb.ac.in/~pb/">Pushpak Bhattacharyya</a>. My undergraduate thesis received the Best Bachelor’s Thesis Award at IIT Patna. I was also a research assistant at the <a href="https://www.sutd.edu.sg/">Singapore University of Technology and Design</a>, where I worked with <a href="https://info.roylee.sg/">Roy Lee</a>.</p>
