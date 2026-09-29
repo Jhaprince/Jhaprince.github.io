@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can see my complete resume [here](https://bit.ly/Prince-Jha-Resume)
+You can see my complete resume [here](https://drive.google.com/file/d/1YmAU5CTLAfPE4mf7vm-ZnI3225UqtxlQ/view?usp=sharing)
 
 Research Interests
 ======
