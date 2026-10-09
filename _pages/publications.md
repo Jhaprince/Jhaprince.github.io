@@ -9,6 +9,8 @@ For an updated list, kindly refer to my [Google Scholar's page](https://scholar.
 
 
 ## Conferences
+*  **Prince Jha**, Nils Lukas, Kun Zhang, Salem Lahlou, "CausalDreamer: Learning Predictive World Models with Latent Disentanglement" arXiv \[[Paper](http://arxiv.org/abs/2610.12016)\]
+  
 * Anthony Hughes, Alexander Goldberg, **Prince Jha**, Adam Perer, Nikolaos Aletras, Niloofar Mireshghallah, "Boundary-targeted Membership Inference Attacks on Safety Classifiers" arXiv \[[Paper](https://arxiv.org/pdf/2605.22373)\]
 
 * **Prince Jha**, Samuele Poppi, Nils Lukas, "Context Inference Attacks Without Jailbreaks" AIWILD@ICLR2026 \[[Paper](https://arxiv.org/pdf/2609.01663)\]
