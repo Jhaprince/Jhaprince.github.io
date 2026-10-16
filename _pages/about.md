@@ -15,7 +15,7 @@ redirect_from:
 <p style="margin-bottom:0.5em">My research aims to build AI systems that remain trustworthy as they become more capable and autonomous. To achieve this goal, I focus on four fundamental research questions:</p>
 
 <p style="margin:0 0 0.35em 0">(i) <b>Robustness:</b> How can we develop AI systems that perform reliably across diverse and unforeseen conditions?</p>
-<p style="margin:0 0 0.35em 0">(ii) <b>Security:</b> How can we understand and mitigate vulnerabilities that adversaries with bounded capabilities can exploit in AI systems?</p>
+<p style="margin:0 0 0.35em 0">(ii) <b>Security:</b> How can we identify and mitigate vulnerabilities that adversaries with bounded capabilities can exploit in AI systems?</p>
 <p style="margin:0 0 0.35em 0">(iii) <b>Privacy:</b> How can we quantify and limit sensitive information leakage from AI systems?</p>
 <p style="margin:0 0 0.35em 0">(iv) <b>Safety:</b> How can we understand and mitigate risks of harm associated with AI systems?</p>
 

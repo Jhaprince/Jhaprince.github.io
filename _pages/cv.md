@@ -34,7 +34,7 @@ Research Interests
 </details>
 <details class="ri__item">
 <summary>Security</summary>
-<p>How can we understand and mitigate vulnerabilities that adversaries with bounded capabilities can exploit in AI systems?</p>
+<p>How can we identify and mitigate vulnerabilities that adversaries with bounded capabilities can exploit in AI systems?</p>
 </details>
 <details class="ri__item">
 <summary>Privacy</summary>
