@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p>(Last Updated: September 29, 2026)</p>
+<p>(Last Updated: October 16, 2026)</p>
 
 <p>I am a master’s student in Machine Learning at <a href="https://mbzuai.ac.ae/">MBZUAI</a>, where I am advised by <a href="https://lahlou.org/">Prof. Salem Lahlou</a>, <a href="https://nilslukas.github.io/">Prof. Nils Lukas</a>, and <a href="https://www.contrib.andrew.cmu.edu/~kunz1/">Prof. Kun Zhang</a>. I am currently a visiting researcher at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, where I work with <a href="https://mireshghallah.github.io/">Prof. Niloofar Mireshghallah</a>.</p>
 
