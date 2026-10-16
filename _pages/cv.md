@@ -29,20 +29,20 @@ Research Interests
 <h3 class="ri__title">Trustworthy AI</h3>
 <p class="ri__lead">Building AI systems that remain trustworthy as they become more capable and autonomous.</p>
 <details class="ri__item">
-<summary>Learn robustly</summary>
-<p>They should generalize and adapt as their tasks, environments, and capabilities change.</p>
+<summary>Robustness</summary>
+<p>How can we develop AI systems that perform reliably across diverse and unforeseen conditions?</p>
 </details>
 <details class="ri__item">
-<summary>Remain secure</summary>
-<p>They should resist manipulation, attacks, and unintended use.</p>
+<summary>Security</summary>
+<p>How can we understand and mitigate vulnerabilities that adversaries with bounded capabilities can exploit in AI systems?</p>
 </details>
 <details class="ri__item">
-<summary>Preserve privacy</summary>
-<p>They should protect sensitive information during training, inference, and interaction.</p>
+<summary>Privacy</summary>
+<p>How can we quantify and limit sensitive information leakage from AI systems?</p>
 </details>
 <details class="ri__item">
-<summary>Improve safely</summary>
-<p>They should acquire new capabilities without drifting away from their intended objectives.</p>
+<summary>Safety</summary>
+<p>How can we understand and mitigate risks of harm associated with AI systems?</p>
 </details>
 </div>
 
